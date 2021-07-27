@@ -99,16 +99,6 @@
       },
       "numberOfTickets": 1,
       "userId": 8
-    },
-    {
-      "id": 4,
-      "numberOfTickets": 1,
-      "user": {
-        "firstName": "Seth",
-        "lastName": "Oz",
-        "color": "#0050b3",
-        "avatar": {}
-      }
     }
   ],
   "events": [
